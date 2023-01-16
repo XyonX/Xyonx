@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a game developer <br>Specialized in Gameplay programing , materials ,Character Locomotion<br>Looking forward to Collab on Projects
+game developer <br> Unreal engine <br> Specialized in Gameplay programing , materials ,Character Locomotion<br>Looking forward to Collab on Projects
 
 
 ## 🌐 Socials:
