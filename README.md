@@ -1,5 +1,5 @@
 # 💫 About Me:
-Unreal  Framewoork  Dev <br> Unreal engine  /C++ / BP /Gameplay FrameWoork(C++) /Materials(BP) / Slate(C++) / UMG(C++) <br>  Currently   Working  in ProjectCore V2  ( A generic unreal game  Framework )  <br>Looking forward to Collab on Projects
+Unreal  Framework  Dev <br> Unreal engine  /C++ / BP /Gameplay FrameWork(C++) /Materials(BP) / Slate(C++) / UMG(C++) <br>  Currently   Working  in ProjectCore V2  ( A generic unreal game  Framework )  <br>Looking forward to Collab on Projects
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
