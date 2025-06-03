@@ -9,8 +9,8 @@
 
 <div align="Center">
   
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/xyonx)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/xyonx)
+[![GitHub Followers](https://img.shields.io/github/followers/xyonx?label=Follow&style=social)](https://github.com/xyonx)
+[![GitHub Stars](https://img.shields.io/github/stars/xyonx?style=social)](https://github.com/xyonx)
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
