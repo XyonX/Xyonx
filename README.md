@@ -52,6 +52,52 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 
 
+
+
+## 🛠️ My Skills
+
+### 🧠 Programming & Scripting
+- Proficient in: JavaScript, TypeScript, Python, C++, Bash
+- Exposure to: Go, Apex, PHP, HCL, PineScript
+
+### 🎨 Frontend Development
+- Frameworks: React, Next.js, Redux
+- Styling: TailwindCSS, Material-UI, HTML5, CSS3
+
+### 🧩 Backend & Databases
+- Backend: Node.js, Express.js
+- Databases: MongoDB, Firebase, PostgreSQL (learning)
+
+### 🧠 AI / ML
+- Tools: TensorFlow, PyTorch, Scikit-learn
+- Areas of interest: MLPs, Deepfake detection, Model deployment
+
+### 🕹 Game Development
+- Engine: Unreal Engine (Blueprints & C++)
+- Areas: Framework design, AI-based features, gameplay logic
+
+### ⚙ DevOps & Tools
+- Docker, Git, GitHub Actions
+- VS Code, Linux CLI, Markdown
+
+<p align="center">
+  <a href="https://joycodes.tech/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:joydip.chakraborty.cs@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/xyonx"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/joydip-chakraborty/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
+
+<details align="center">
+  <summary>Quote</summary>
+  <br>
+  One of my favourite quotes
+  <blockquote>
+    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
+    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
+  </blockquote>
+</details>
+
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
@@ -81,52 +127,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<details>
-  <summary>Quote</summary>
-  <br>
-  One of my favourite quotes
-  <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
-  </blockquote>
-</details>
 
 
-## 🛠️ My Skills
-
-### 🧠 Programming & Scripting
-- Proficient in: JavaScript, TypeScript, Python, C++, Bash
-- Exposure to: Go, Apex, PHP, HCL, PineScript
-
-### 🎨 Frontend Development
-- Frameworks: React, Next.js, Redux
-- Styling: TailwindCSS, Material-UI, HTML5, CSS3
-
-### 🧩 Backend & Databases
-- Backend: Node.js, Express.js
-- Databases: MongoDB, Firebase, PostgreSQL (learning)
-
-### 🧠 AI / ML
-- Tools: TensorFlow, PyTorch, Scikit-learn
-- Areas of interest: MLPs, Deepfake detection, Model deployment
-
-### 🕹 Game Development
-- Engine: Unreal Engine (Blueprints & C++)
-- Areas: Framework design, AI-based features, gameplay logic
-
-### ⚙ DevOps & Tools
-- Docker, Git, GitHub Actions
-- VS Code, Linux CLI, Markdown
-
-
-
-<p align="center">
-  <a href="https://joycodes.tech/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:joydip.chakraborty.cs@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/xyonx"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/joydip-chakraborty/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
-</p>
 
 
 | Snake Eating Contributions in the last year |
